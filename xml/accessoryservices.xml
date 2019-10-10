@@ -46,7 +46,7 @@
                 id="104"
                 dataRate="high"
                 priority="high"
-                reliability= "enable"/>   
+                reliability= "disable"/>   
 		</serviceProfile>
     </application>
 
