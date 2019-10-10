@@ -77,7 +77,7 @@
         </config-file>
 
         <framework src="src/android/galaxygear.gradle" custom="true" type="gradleReference"/>
-        <lib-file src="libs/accessory-v2.6.1.jar"/>
+        <lib-file src="libs/accessory-v2.5.3.jar"/>
         <lib-file src="libs/sdk-v1.0.0.jar"/>
         <source-file src="xml/accessoryservices.xml" target-dir="res/xml" />
         <source-file src="src/android/GalaxyGearPlugin.java" target-dir="src/net/trentgardner/cordova/galaxygear" />
