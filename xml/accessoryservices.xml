@@ -44,8 +44,8 @@
 
             <serviceChannel
                 id="104"
-                dataRate="low"
-                priority="low"
+                dataRate="high"
+                priority="high"
                 reliability= "enable"/>   
 		</serviceProfile>
     </application>
